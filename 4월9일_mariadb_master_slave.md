@@ -288,7 +288,7 @@ Replication 설정
 
 ```sql
 CHANGE MASTER TO
-MASTER_HOST="192.168.100.101",
+MASTER_HOST="192.168.X.X",
 MASTER_USER="slave_db",
 MASTER_PASSWORD="slave_password",
 MASTER_PORT=3306,
