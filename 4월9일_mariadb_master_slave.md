@@ -1,5 +1,3 @@
----
-
 # Linux & MariaDB Security / System Administration Notes
 
 ## 1. Linux Kernel Parameter 확인
@@ -357,5 +355,3 @@ INSERT INTO users (name) VALUES ('홍길순');
 
 ---
 
-원하면 내가 이거 **GitHub용으로 더 깔끔한 README (목차, 아키텍처 그림, 보안 설명 포함)**으로도 다시 만들어 줄게.
-보안 수업 정리라면 **교수님들이 좋아하는 수준으로 업그레이드도 가능하다.**
