@@ -4,7 +4,7 @@
 
 ## 1. Linux Kernel Parameter 확인
 
-### Swappiness 확인
+### Swappiness 확인 
 
 ```bash
 sysctl -a | grep swappiness
